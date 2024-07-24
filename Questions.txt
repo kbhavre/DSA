@@ -1,0 +1,5 @@
+1. Find smallest and largest 
+2. Find second smallest and second largest
+3. Check if the array is sorted or not 
+4. Remove Duplicates 
+5. Linear Search 
